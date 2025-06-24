@@ -20,7 +20,7 @@ This project explores the Superstore sales dataset using Python (Pandas, Matplot
 
 ---
 
-## ✅ Tools Used
+# ✅ Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
